@@ -11,6 +11,8 @@
  - lcd_font_pg.py: LCD_fontクラス
 
 ## demo01_.py
+
+[demo_01.py](demo_01.py)
 <!-- [alt text](readme_images/image.png)
 ![alt text](readme_images/image.png) -->
 <!-- ![alt text](readme_images/image.png) -->
@@ -21,11 +23,17 @@ https://github.com/user-attachments/assets/d85d1232-9b1c-4a94-9515-3d048d42ebaf
 
 ## demo02_.py
 
+[demo_02.py](demo_02.py)
+
+
 [<img src="readme_resources/demo_02.png" width="200">](readme_resources/demo_02.png)
 
 https://github.com/user-attachments/assets/0dbf2212-5cf3-43f2-9a04-18e2ff72cc85
 
 ## demo_car_crash.py
+
+[demo_car_crash.py](demo_car_crash.py)
+
 
 [<img src="readme_resources/demo_car_crash.png" width="200">](readme_resources/demo_car_crash.png)
 
