@@ -15,4 +15,7 @@
 ![alt text](readme_images/image.png) -->
 <!-- ![alt text](readme_images/image.png) -->
 [<img src="readme_resources/image.png" width="200">](readme_resources/image.png)
-<video controls src="readme_resources/demo_01.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/d85d1232-9b1c-4a94-9515-3d048d42ebaf
+
