@@ -14,4 +14,5 @@
 <!-- [alt text](readme_images/image.png)
 ![alt text](readme_images/image.png) -->
 <!-- ![alt text](readme_images/image.png) -->
-[<img src="readme_images/image.png" width="200">](readme_images/image.png)
+[<img src="readme_resources/image.png" width="200">](readme_resources/image.png)
+<video controls src="readme_resources/demo_01.mp4" title="Title"></video>
