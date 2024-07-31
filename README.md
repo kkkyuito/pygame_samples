@@ -14,12 +14,12 @@
 <!-- [alt text](readme_images/image.png)
 ![alt text](readme_images/image.png) -->
 <!-- ![alt text](readme_images/image.png) -->
-[<img src="readme_resources/image.png" width="200">](readme_resources/image.png)
+[<img src="readme_resources/demo_01.png" width="200">](readme_resources/demo_01.png)
 
 
 https://github.com/user-attachments/assets/d85d1232-9b1c-4a94-9515-3d048d42ebaf
 
-
+[<img src="readme_resources/demo_02.png" width="200">](readme_resources/demo_02.png)
 
 https://github.com/user-attachments/assets/0dbf2212-5cf3-43f2-9a04-18e2ff72cc85
 
