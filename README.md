@@ -40,5 +40,12 @@ https://github.com/user-attachments/assets/0dbf2212-5cf3-43f2-9a04-18e2ff72cc85
 https://github.com/user-attachments/assets/82b29e5f-3c52-4029-8a20-d22ea09d3300
 
 ## demo_font.py
+[demo_font.py](demo_font.py)
 
 [<img src="readme_resources/demo_font.png" width="200">](readme_resources/demo_font.png)
+
+## demo_freetype.py
+
+[demo_freetype.py](demo_freetype.py)
+
+[<img src="readme_resources/demo_freetype.png" width="200">](readme_resources/demo_freetype.png)
