@@ -50,11 +50,19 @@ https://github.com/user-attachments/assets/82b29e5f-3c52-4029-8a20-d22ea09d3300
 
 [<img src="readme_resources/demo_freetype.png" width="200">](readme_resources/demo_freetype.png)
 
+## demo_LCD_font_01.py
+
 [demo_LCD_font_01.py](demo_LCD_font_01.py)
 
 [<img src="readme_resources/demo_LCD_font_01.png" width="200">](readme_resources/demo_LCD_font_01.png)
 
 https://github.com/user-attachments/assets/6d076de2-14dc-46d3-9cb6-39215cdadb24
+
+## demo_LCD_font.py
+
+[demo_LCD_font.py](demo_LCD_font.py)
+
+[<img src="readme_resources/demo_LCD_font.png" width="200">](readme_resources/demo_LCD_font.png)
 
 https://github.com/user-attachments/assets/92075e0f-c94c-49f0-92bc-943032a55734
 
